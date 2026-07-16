@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="280" viewBox="0 0 920 280" role="img" aria-labelledby="title desc">
+  <title id="title">DPIEngine project card</title>
+  <desc id="desc">A project card for DPIEngine, a deep packet inspection and network security platform.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="52%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#2a0f14"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#f43f5e"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+    <filter id="softShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="920" height="280" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="918" height="278" rx="17" fill="none" stroke="#30363d"/>
+  <rect x="34" y="34" width="852" height="212" rx="14" fill="#0d1117" opacity="0.62" filter="url(#softShadow)"/>
+  <rect x="34" y="34" width="852" height="4" rx="2" fill="url(#accent)"/>
+
+  <g transform="translate(64 70)">
+    <circle cx="24" cy="24" r="24" fill="#1f2937" stroke="#f43f5e" stroke-width="2"/>
+    <path d="M14 18h20M14 24h20M14 30h20" stroke="#22c55e" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M24 14v20" stroke="#f43f5e" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  </g>
+
+  <text x="124" y="88" fill="#f8fafc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="34" font-weight="700">DPIEngine</text>
+  <text x="124" y="122" fill="#c9d1d9" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17">Deep packet inspection, network monitoring, and traffic analysis platform</text>
+
+  <g font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13" font-weight="600">
+    <rect x="124" y="150" width="78" height="30" rx="15" fill="#111827" stroke="#334155"/>
+    <text x="140" y="170" fill="#e5e7eb">Python</text>
+    <rect x="214" y="150" width="74" height="30" rx="15" fill="#111827" stroke="#334155"/>
+    <text x="230" y="170" fill="#e5e7eb">Scapy</text>
+    <rect x="300" y="150" width="68" height="30" rx="15" fill="#111827" stroke="#334155"/>
+    <text x="318" y="170" fill="#e5e7eb">Flask</text>
+    <rect x="380" y="150" width="110" height="30" rx="15" fill="#111827" stroke="#334155"/>
+    <text x="396" y="170" fill="#e5e7eb">Networking</text>
+    <rect x="502" y="150" width="66" height="30" rx="15" fill="#111827" stroke="#334155"/>
+    <text x="518" y="170" fill="#e5e7eb">Linux</text>
+  </g>
+
+  <g font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15">
+    <text x="124" y="214" fill="#c9d1d9">Packet capture | Protocol analysis | Anomaly detection | Traffic classification</text>
+    <text x="124" y="238" fill="#8b949e">Built for real-time network monitoring, threat detection, and security automation.</text>
+  </g>
+
+  <g transform="translate(720 80)" fill="none" stroke-width="2">
+    <circle cx="58" cy="58" r="54" stroke="#30363d"/>
+    <path d="M58 8a50 50 0 0 1 45 72" stroke="#f43f5e" stroke-linecap="round"/>
+    <path d="M19 90a50 50 0 0 1 20-78" stroke="#22c55e" stroke-linecap="round"/>
+    <path d="M40 64l14 14 28-36" stroke="#f8fafc" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
