@@ -4,7 +4,7 @@
 
 # Hi, I'm Ayush Priyadarshan
 
-<img src="assets/profile-photo.jpg" alt="Ayush Priyadarshan" width="180" style="border-radius: 50%;" />
+<img src="https://raw.githubusercontent.com/ayush001844/ayush001844/main/assets/profile-photo.jpg" alt="Ayush Priyadarshan" width="180" style="border-radius: 50%;" />
 
 **Cybersecurity engineer focused on offensive security, AI/ML-driven threat detection, network security, and practical automation.**
 
@@ -57,7 +57,7 @@ mindset: "Securing systems through intelligence, automation, and offensive valid
 <div align="center">
 
 <a href="https://github.com/ayush001844/DPI-_ENGINE">
-  <img src="assets/dpiengine-card.svg" alt="DPIEngine project card" width="92%" />
+  <img src="https://raw.githubusercontent.com/ayush001844/ayush001844/main/assets/dpiengine-card.svg" alt="DPIEngine project card" width="92%" />
 </a>
 
 </div>
